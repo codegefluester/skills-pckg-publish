@@ -1,5 +1,5 @@
 {
-  "name": "node-js-sample",
+  "name": "@codegefluester/node-js-sample",
   "version": "0.0.1",
   "description": "Node.js package from GH Actions",
   "main": "index.js",
