@@ -1,6 +1,6 @@
 {
   "name": "@codegefluester/node-js-sample",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Node.js package from GH Actions",
   "main": "index.js",
   "scripts": {
