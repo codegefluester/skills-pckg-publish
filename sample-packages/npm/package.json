@@ -1,3 +1,20 @@
 {
-  "your": "json config here"
+  "name": "node-js-sample",
+  "version": "0.0.1",
+  "description": "Node.js package from GH Actions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codegefluester/skills-pckg-publish"
+  },
+  "keywords": [
+    "node",
+    "github",
+    "github actions"
+  ],
+  "author": "Bjorn Kaiser",
+  "license": "MIT"
 }
